@@ -122,7 +122,7 @@ Hit Login. You now should be able to send files to your linux instance.
 
 We can connect to google drive through **rclone**.
 * Go to https://drive.google.com
-* Wait for 'Team Drive' or 'Drivea van mijn team' to arive
+* Wait for 'Team Drive' or 'Drives van mijn team' to arive
 * Click on it and hit **+**
 * Give it a name
 
