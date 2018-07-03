@@ -200,10 +200,10 @@ Download minio and run
 ```
 wget https://dl.minio.io/server/minio/release/linux-amd64/minio
 chmod +x minio
-./minio server /mnt/data
+./minio server /data
 ```
 
-With your webbrowser go to https://your-floatig-ip:9000 shown and login the *accesskey* and *secretkey*
+With your webbrowser go to https://your-floating-ip:9000 shown and login the *accesskey* and *secretkey*
 
 Whats happening??
 
