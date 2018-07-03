@@ -92,16 +92,16 @@ The first character in the permissions notes if it is a directory or file (- = f
 The next 3 are the permissions for the owner, then the next 3 are for the group owership and the last 3 are for everybody ownership.
 * r -> read permissions
 * w -> write permissions
-* x -> execure permissions
-* \- -> persmission not granted
-To change persission of a file for a user run
+* x -> execute permissions
+* \- -> permission not granted
+To change permission of a file for a user run
 ```
 chmod u+x <filename> (this will add execute permissions)
-chmod u-w <filename> (this will remove write permission)
+chmod u-w <filename> (this will remove write permissions)
 ```
 for group use `g` instead of `u` and for everybody use `o`
 
-Add `-R` to the command to set the permission of all files in a directory
+Add `-R` to the command to set the permissions of all files in a directory
 
 You can also change the ownership
 ```
