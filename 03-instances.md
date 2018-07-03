@@ -41,7 +41,7 @@ install a package
 ```
 sudo apt install htop
 sudo apt install sysstat iftop
-sudo apt install -y python3 ipython (what happend?)
+sudo apt install -y python3 ipython (what happened?)
 ```
 to remove
 ```
@@ -50,7 +50,7 @@ sudo apt remove sysstat
 
 update all packages
 ```
-sudo apt upgarde
+sudo apt upgrade
 ```
 It **recommended** to update your full machine regularly. It is really usefull
 to install the `unattended-upgrades` packages. This will install security updates
